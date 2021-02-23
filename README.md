@@ -10,7 +10,7 @@ git commit -m "i"
 > ...................................................................  
 
 + 깃 허브 
-> 저장소 생성
+> 저장소 생성  
 git remote add origin [저장소 주소]
 git branch -M main
 git push -u origin main
