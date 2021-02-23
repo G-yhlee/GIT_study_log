@@ -22,7 +22,7 @@ git push -u origin main
 > ...................................................................  
 git add .  
 git commit -m "i"  
-git push -u origin main 
+git push -u origin main  
 > ...................................................................  
 
 
