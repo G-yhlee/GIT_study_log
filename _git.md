@@ -1,8 +1,8 @@
 # GIT STUDY LOG
 
 ##### 깃 최초설정
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+$ git config --global user.name "John Doe"  
+$ git config --global user.email johndoe@example.com  
 
 
 ##### 로컬 저장소
