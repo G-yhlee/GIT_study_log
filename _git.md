@@ -37,7 +37,7 @@ git push -u origin main
 ##### last commit
 > ...................................................................  
 git add .  
-git commit -m "i"  
+git commit -m "update:readme.md:최초설정"  
 git push -u origin main  
 > ...................................................................  
 
