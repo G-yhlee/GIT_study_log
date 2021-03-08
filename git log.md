@@ -1,5 +1,5 @@
 git log --branches --decorate
-git log --branches --decorate --graph -oneline
+git log --branches --decorate --graph --oneline
 - source tree : gui 툴이 있다
 
 
@@ -8,3 +8,5 @@ git log main..master
 
 
 git log -p main..master
+
+

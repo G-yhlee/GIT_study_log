@@ -4,3 +4,5 @@
 
 
 # git branch
+git branch b1
+git branch -d b1

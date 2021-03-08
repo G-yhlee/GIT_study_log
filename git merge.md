@@ -1,1 +1,6 @@
-git log --branches --graph --oneline
+git merge [branch]
+
+
+
+fastfoward
+- 
